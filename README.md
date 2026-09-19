@@ -1,6 +1,7 @@
 # Tesla Financial Modeling
 
-A comprehensive Tesla financial modeling project covering historical financial analysis, three-statement modeling, revenue and cost forecasting, scenario analysis, working capital, debt, D&A, and financial statement projections.
+A comprehensive Tesla financial modeling project covering historical financial analysis, three-statement modeling, revenue and cost forecasting, scenario analysis, working capital, debt, D&A, financial statement projections and 
+DCF valuation
 
 ## Project Overview
 
@@ -68,14 +69,11 @@ The model currently maintains a zero balance check across the projected periods.
 | `Tesla_Financial_Model.xlsx` | Full Excel financial model |
 | `Tesla_Financial_Model.pdf` | PDF version of the financial model |
 
-## Future Development
+## DCF valuation
 
-Potential future extensions include:
+Including:
 
-- DCF Valuation
 - FCFF Calculation
 - WACC Estimation
-- Terminal Value
-- Enterprise Value
-- Equity Value
-- Implied Share Price
+- DCF Calculation
+- Price range
